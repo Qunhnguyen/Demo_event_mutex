@@ -1,1 +1,1 @@
-# Demo_event_mutex
+npx ts-node demo.ts
